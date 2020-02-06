@@ -1,0 +1,12 @@
+Mon Sep 16 16:09:05 2019
+ERROR: Could not read activation key
+
+Wed Sep 18 16:53:36 2019
+ERROR: Could not read activation key
+
+Fri Jan 10 11:45:30 2020
+ERROR: Invalid activation key
+
+Fri Jan 10 11:46:04 2020
+ERROR: Invalid activation key
+
